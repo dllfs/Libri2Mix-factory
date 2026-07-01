@@ -1,0 +1,7 @@
+# Runtime dependencies
+numpy>=1.21
+soundfile>=0.12
+tqdm>=4.64
+
+# Test dependency
+pytest>=7.0

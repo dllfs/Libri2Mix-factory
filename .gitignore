@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+*.egg-info/
+dist/
+build/
+Libri2Mix-Factory/
+examples/demo_output/

@@ -22,9 +22,9 @@ Recommended first listen:
 It contains:
 
 ```text
-first 2 seconds before factory noise
-0.5 seconds of silence
-first 2 seconds after factory noise
+1 second before factory noise
+0.25 seconds of silence
+1 second after factory noise
 ```
 
 Sample details:

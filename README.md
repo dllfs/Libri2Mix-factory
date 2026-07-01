@@ -85,8 +85,8 @@ Start with:
 examples/audio_samples/04_AB_before_then_after_first2s.wav
 ```
 
-That file plays the first 2 seconds before factory noise, then 0.5 seconds of
-silence, then the first 2 seconds after factory noise. The same folder also
+That file plays 1 second before factory noise, then 0.25 seconds of silence,
+then 1 second after factory noise. The same folder also
 contains the clean mixture, the scaled noise that was actually added, and the
 final noisy mixture.
 
